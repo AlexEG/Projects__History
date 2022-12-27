@@ -49,7 +49,7 @@ position: relative;
   border-radius: 50%;
   border: solid 1px red;
   animation-name: abb;
-  animation-duration: 6s;
+  animation-duration: 4s;
   border-left-color: transparent;
 animation-iteration-count: infinite;
 
