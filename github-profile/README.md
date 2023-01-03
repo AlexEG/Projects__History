@@ -1,6 +1,6 @@
 <p align="center"> 2023-1-4</p>
 
-![2023-1-4](images/Screenshot%202023-01-04%20at%2000-02-23%20AlexEG%20(Alexander%20EG)
+![2023-1-4](images/Screenshot%202023-01-04%20at%2000-02-23%20AlexEG.png)
 
 <p align="center"> 2022-12-27</p>
 
